@@ -1,0 +1,12 @@
+C:\Users\Positivo\Desktop\UC15-Atividade_Online\TesteCalcularIMC\TesteCalcularIMC\bin\Debug\net6.0\TesteCalcularIMC.deps.json
+C:\Users\Positivo\Desktop\UC15-Atividade_Online\TesteCalcularIMC\TesteCalcularIMC\bin\Debug\net6.0\TesteCalcularIMC.dll
+C:\Users\Positivo\Desktop\UC15-Atividade_Online\TesteCalcularIMC\TesteCalcularIMC\bin\Debug\net6.0\TesteCalcularIMC.pdb
+C:\Users\Positivo\Desktop\UC15-Atividade_Online\TesteCalcularIMC\TesteCalcularIMC\obj\Debug\net6.0\TesteCalcularIMC.csproj.AssemblyReference.cache
+C:\Users\Positivo\Desktop\UC15-Atividade_Online\TesteCalcularIMC\TesteCalcularIMC\obj\Debug\net6.0\TesteCalcularIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Positivo\Desktop\UC15-Atividade_Online\TesteCalcularIMC\TesteCalcularIMC\obj\Debug\net6.0\TesteCalcularIMC.AssemblyInfoInputs.cache
+C:\Users\Positivo\Desktop\UC15-Atividade_Online\TesteCalcularIMC\TesteCalcularIMC\obj\Debug\net6.0\TesteCalcularIMC.AssemblyInfo.cs
+C:\Users\Positivo\Desktop\UC15-Atividade_Online\TesteCalcularIMC\TesteCalcularIMC\obj\Debug\net6.0\TesteCalcularIMC.csproj.CoreCompileInputs.cache
+C:\Users\Positivo\Desktop\UC15-Atividade_Online\TesteCalcularIMC\TesteCalcularIMC\obj\Debug\net6.0\TesteCalcularIMC.dll
+C:\Users\Positivo\Desktop\UC15-Atividade_Online\TesteCalcularIMC\TesteCalcularIMC\obj\Debug\net6.0\refint\TesteCalcularIMC.dll
+C:\Users\Positivo\Desktop\UC15-Atividade_Online\TesteCalcularIMC\TesteCalcularIMC\obj\Debug\net6.0\TesteCalcularIMC.pdb
+C:\Users\Positivo\Desktop\UC15-Atividade_Online\TesteCalcularIMC\TesteCalcularIMC\obj\Debug\net6.0\ref\TesteCalcularIMC.dll
